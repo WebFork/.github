@@ -1,6 +1,6 @@
 # Welcome to Webfork 👋
 
-![Webfork Banner](https://www.webfork.dev/assets/banner.png)
+![Webfork Banner](https://assets.webfork.in/banner.jpeg)
 
 ## About Us 🌐
 Webfork is a software development firm dedicated to crafting innovative solutions that empower businesses to thrive in the digital age. From web applications to mobile platforms, we specialize in delivering high-quality, scalable, and user-centric software products.
