@@ -44,7 +44,7 @@ We work with a diverse range of technologies:
 Stay updated and connect with us:
 - 🌐 [Website](https://www.webfork.dev/)
 - 📩 Email: info@webfork.dev
-- 🐦 Twitter: [@WebForkDev](https://twitter.com/WebForkDev)
+- 🐦 Twitter: [@WebForkDev](https://twitter.com/WebForkllc)
 - 💼 LinkedIn: [Webfork](https://linkedin.com/company/webfork)
 
 ---
